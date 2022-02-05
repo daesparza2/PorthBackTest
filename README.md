@@ -23,7 +23,7 @@ src/config/database.config.js
 
 <h1 align="center"> Mi solucion </h1>
 
-El presente proyecto esta desarrollado con vue.js, primevue y bootstrap 
+El presente proyecto esta desarrollado con node.js, express y PostgreSql
 
 La arquitectura que utilice para la resolucion del ejercicio es la siguiente 
 
